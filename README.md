@@ -1,6 +1,7 @@
-# to_do
+# sticky notes
 
-A new Flutter project.
+to-do notes app
+
 
 ## Getting Started
 
